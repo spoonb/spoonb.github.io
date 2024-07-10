@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "spoonb's blog",
   description: "沉淀，分享，成长。",
-  base: '/repo/',
+  base: '/spoonb.github.io/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
